@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/nirvana726/react_movies",
+  "homepage": "https://nirvana726.github.io/react_movies",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
